@@ -1,8 +1,7 @@
 
 import math
-__author__ = "saif"
-__date__ = "$Oct 23, 2016 12:36:26 PM$"
 from copy import deepcopy
+
 class city:
     
     def __init__(self,cityList=[i for i in range(20)],
