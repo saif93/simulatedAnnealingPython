@@ -1,7 +1,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Lab6-Task1:     implementation of  Simulated Annealing
+implementation of  Simulated Annealing in Python
 Date:           Oct 22, 2016 7:31:55 PM
-Programmed By:  Muhammad Saif ul islam (BSCS-7B)
+Programmed By:  Muhammad Saif ul islam
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 import math
 import random
